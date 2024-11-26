@@ -6,4 +6,4 @@ In the latest Netflow versions, there doesn't appear to be a direct method to vi
 
 You can run it using ```python cflow_converter.py```, but before that you need to edit the cflow_convertor.py to point to your Wireshark file with CFlow.
 
-An example Wireshark is provided so you can extract and take a look :)
+An example Wireshark pcap is provided so you can extract and take a look :)
